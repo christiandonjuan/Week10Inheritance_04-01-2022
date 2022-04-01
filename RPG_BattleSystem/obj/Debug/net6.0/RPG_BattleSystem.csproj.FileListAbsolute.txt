@@ -1,0 +1,15 @@
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\RPG_BattleSystem\obj\Debug\net6.0\RPG_BattleSystem.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\RPG_BattleSystem\obj\Debug\net6.0\RPG_BattleSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\RPG_BattleSystem\obj\Debug\net6.0\RPG_BattleSystem.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\RPG_BattleSystem\obj\Debug\net6.0\RPG_BattleSystem.AssemblyInfo.cs
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\RPG_BattleSystem\obj\Debug\net6.0\RPG_BattleSystem.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\RPG_BattleSystem\bin\Debug\net6.0\RPG_BattleSystem.exe
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\RPG_BattleSystem\bin\Debug\net6.0\RPG_BattleSystem.deps.json
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\RPG_BattleSystem\bin\Debug\net6.0\RPG_BattleSystem.runtimeconfig.json
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\RPG_BattleSystem\bin\Debug\net6.0\RPG_BattleSystem.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\RPG_BattleSystem\bin\Debug\net6.0\ref\RPG_BattleSystem.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\RPG_BattleSystem\bin\Debug\net6.0\RPG_BattleSystem.pdb
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\RPG_BattleSystem\obj\Debug\net6.0\RPG_BattleSystem.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\RPG_BattleSystem\obj\Debug\net6.0\ref\RPG_BattleSystem.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\RPG_BattleSystem\obj\Debug\net6.0\RPG_BattleSystem.pdb
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\RPG_BattleSystem\obj\Debug\net6.0\RPG_BattleSystem.genruntimeconfig.cache

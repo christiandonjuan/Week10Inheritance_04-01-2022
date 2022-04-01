@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "19b5001a-85da-49b3-8ac8-265d6380efa2": {
+      "ProjectGuid": "19b5001a-85da-49b3-8ac8-265d6380efa2",
+      "DisplayName": "RPG_BattleSystem",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
